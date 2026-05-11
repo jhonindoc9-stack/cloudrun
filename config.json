@@ -1,0 +1,8 @@
+{
+    "default_region": "us-central1",
+    "default_cpu": "1",
+    "default_memory": "512Mi",
+    "default_concurrency": 80,
+    "default_service_name": "omnicloud-service",
+    "log_file": "logs/deployments.csv"
+}
